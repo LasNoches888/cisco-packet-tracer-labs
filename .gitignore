@@ -1,0 +1,10 @@
+# Служебные файлы редакторов и ОС
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Резервные копии и временные файлы Packet Tracer
+*.pkt.bak
+*.pka.bak
+*.tmp
